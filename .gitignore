@@ -27,3 +27,6 @@ yarn-error.log*
 .idea/
 .idea/*
 .idea/**
+
+.idea/misc.xml
+.idea/modules.xml
